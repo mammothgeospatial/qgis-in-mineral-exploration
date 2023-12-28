@@ -100,11 +100,11 @@ latex_elements = {
       \DTMlangsetup[en-GB]{abbr,monthdaysep={\space},dayofmonth=ordinal}
       \usepackage[titles]{tocloft}
       \usepackage{graphicx}
-      \setkeys{Gin}{width=0.8\textwidth}  % Set default width for all images
+      # \setkeys{Gin}{width=0.8\textwidth}  % Set default width for all images
       \usepackage{microtype}
     ''',
     'extraclassoptions': 'openany,oneside',
     'fncychap': r'\usepackage[Glenn]{fncychap}',
     'printindex': r'\footnotesize\raggedright\printindex',
-    'maketitle': latex_maketitle,
+    # 'maketitle': latex_maketitle,
   }
