@@ -1,0 +1,6 @@
+_build
+_templates
+
+venv/
+
+.vscode
