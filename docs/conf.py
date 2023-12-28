@@ -82,12 +82,10 @@ latex_maketitle = f'''
     \\Huge QGIS in \\par
     \\Huge Mineral Exploration \\par
     \\vspace{{2cm}}
-    \\includegraphics[width=0.9\\textwidth]{{_static/namibia.png}} \\par
     \\vspace{{2cm}}
     {{\\Large Version: {version} \\par }}
     {{\\large \\today \\par}}
     \\vspace{{1cm}}
-    \\includegraphics[width=0.3\\textwidth]{{_static/qgis-logo.png}} \\par
     \\vspace*{{\\fill}}
   \\end{{titlepage}}
 '''
