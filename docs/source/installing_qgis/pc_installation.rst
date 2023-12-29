@@ -9,7 +9,7 @@ The OSGeo4W (Open source geospatial for Windows) option can be also be used and 
 .. image:: img/download.png
   :align: center
 
-The installer (“Download QGIS 3.28”) will install the program into the program files folder and create a folder on your desktop with shortcuts to the run the program. It is recommended to run the “QGIS Desktop 3.x with GRASS 7.x.x” version which runs the GIS program and associated GRASS GIS functions.
+The installer (“Download QGIS 3.34”) will install the program into the program files folder and create a folder on your desktop with shortcuts to the run the program. It is recommended to run the “QGIS Desktop 3.x with GRASS 7.x.x” version which runs the GIS program and associated GRASS GIS functions.
 When you run the OSGeo4W Network Installer option you will see the following screen shot. For a first-time installation, choose the “Express Desktop Install” which will install the basic programs and required utility files.
 
 .. image:: img/osgeo4w.png
