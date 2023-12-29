@@ -13,14 +13,17 @@ Open the symbol selector dialog by clicking on the structure symbol and then set
 
 Select the data driven override widget next to the rotation box and set the field that contains the rotation amount.
 
-  . image:: img/structure_symbols_rotation.jpg
-  :align: center
+  .. image:: img/structure_symbols_no_rotation.jpg
+    :align: center
 
 Check that the symbols are correctly oriented.
 
-  . image:: img/structure_symbols_map.jpg
-  :align: center
+  .. image:: img/structure_symbols_map.jpg
+    :align: center
 
 Make sure you know the initial orientation of the symbol, as you might need to subtract 90 degrees for example to get the correct orientation.
 
 ``Dip_Direction - 90``
+
+ .. image:: img/structure_symbols_rotation.jpg
+    :align: center
