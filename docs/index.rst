@@ -14,7 +14,7 @@ The presentation options for point, line and polygon data are extensive and easi
 
 Map production is easy in QGIS with the “Print Layout” allowing extensive options for the display and printing of maps.
 
-This document is a working draft and in continuous development. There may be errors and omissions, and these will be rectified as time permits. This manual applies to QGIS 3.28.
+This document is a working draft and in continuous development. There may be errors and omissions, and these will be rectified as time permits. This manual applies to QGIS 3.34.
 
 .. toctree::
   :maxdepth: 2
