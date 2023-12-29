@@ -4,7 +4,7 @@ This comprehensive manual for exploration geologists using QGIS is available as 
 
 It was originally written and freely distributed by Grant Boxer as a PDF. To share it more widely, Grant and Mammoth Geospatial have collaborated to migrate it to a web-friendly format, following the lead of the [QGIS documentation](https://www.qgis.org/en/docs/index.html).
 
-We welcome community contributions! If you see errors or omissions, or have specific suggestions you think will make this more useful, please let us know by submitting an issue via the GitHub repo. For more substantial contributions, we’d be happy to review pull requests.
+We welcome community contributions! If you see errors or omissions, or have specific suggestions you think will make this more useful, please let us know by submitting an [issue via the GitHub repo](https://github.com/mammothgeospatial/qgis-in-mineral-exploration/issues). For more substantial contributions, we’d be happy to review pull requests.
 
 ## Authors and maintainers
 

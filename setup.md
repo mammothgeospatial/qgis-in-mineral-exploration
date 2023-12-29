@@ -16,7 +16,7 @@
 - Clone the repository
 - Set up a virtual environment in the repository root: `virtualenv venv`
 - Activate your virtual environment: `.\venv\Scripts\activate`
-- Compile a requirements.txt file from your dependencies: `pip install -r requirements.txt`
+- Install required Python modules into your virtual environment: `pip install -r requirements.txt`
 
 ### Build the docs
 - Activate your virtual environment: `.\venv\Scripts\activate`
