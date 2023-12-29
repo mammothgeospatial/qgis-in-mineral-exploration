@@ -10,7 +10,7 @@ You can create a new field or update and existing field - but make sure you have
 
 In QGIS, open up your collars table and DTM file (must be a grid not an image). Open the attribute table for the collar file and enable editing. Select the add new field icon and add a new field and set the type to decimal. Then select the new field from the drop down field list and enter in the following into the expression editor.
 
-raster_value( 'DTM layer',1,make_point(x(@geometry),y(@geometry)))
+``raster_value( 'DTM layer',1,make_point(x(@geometry),y(@geometry)))``
 
 .. image:: img/HowTo_collars_raster_value.jpg
   :align: center
@@ -18,12 +18,3 @@ raster_value( 'DTM layer',1,make_point(x(@geometry),y(@geometry)))
 Run update all.
 
 The new field should now be populated with new vales extracted from the DTM.
-
-
-
-
-
-
-
-
-
