@@ -3,7 +3,7 @@ Introduction
 ============
 
 
-This document is aimed at the exploration geologist, but the techniques outlined are easily transferrable to other areas. The author has been using QGIS since 2015 and the version used in this document is version 3.28.
+This document is aimed at the exploration geologist, but the techniques outlined are easily transferrable to other areas. The author has been using QGIS since 2015 and the version used in this document is version 3.34.
 
 The reader is encouraged to join the international online `QGIS user forum <http://lists.osgeo.org/mailman/listinfo/qgis-user>`_.
 
