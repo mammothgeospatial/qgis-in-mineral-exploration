@@ -4,7 +4,7 @@ A Compilation of How-To's
 
 This is a list of processes that hopefully will help the users of QGIS with specific geological-type tasks.
 
-1. Set drill collar RL from a DTM
+1. Set drill |collars| RL from a DTM
 2. Plot oriented structure symbols
 3. Getting and using the USGS symbol and pattern fills
 4. Where do I find good instructional videos
@@ -12,7 +12,9 @@ This is a list of processes that hopefully will help the users of QGIS with spec
 6. Exporting drill collar points to your GPS
 7. Exporting tracks to your GPS
 
+. |collars| raw:: html
 
+   <a href="/collars.rst" target="_blank"></a>
 
 
 
