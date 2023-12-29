@@ -156,3 +156,9 @@ Note there are two photos at this location.
 Select the “Open File” option and the photo will be displayed.
 
 .. image:: img/photo_viewer.png
+
+Opening pdf attachements
+------------------------
+  To open a pdf attachment, such as a report linked to a point, the action must include the executable file.
+
+  Add the path to the executable, e.g. 'C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe'
