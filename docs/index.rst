@@ -44,6 +44,7 @@ This document is a working draft and in continuous development. There may be err
    source/tips_and_tricks/index
    source/drone_mapping/index
    source/how_to/index
+   source/more_resources/index
    source/references/index
 
 .. toctree::
