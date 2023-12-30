@@ -9,12 +9,12 @@ When creating a new vector layer to digitise the data, ensure the layer is the c
 .. image:: img/new_shp_layer_lines.png
   :align: center
 
-QGIS can automatically assign a unique id numbers for each line after the creation of a group of lines. Open the Layer Properties > Fields, select the id field and click on the field calculator icon and choose “Update existing field”, select the id field, select the “row number” operator in the Variables list. Now when you save the file it will allocate a unique id to each feature. Thanks to Chris Franklin for noting this feature. If you are digitising into a GeoPackage line file, the id field will be autonumbered.
+If you are digitising into a shapefile, QGIS can automatically assign a unique id numbers for each line after the creation of a group of lines. Open the Layer Properties > Fields, select the id field and click on the field calculator icon and choose “Update existing field”, select the id field, select the “row number” operator in the Variables list. Now when you save the file it will allocate a unique id to each feature. Thanks to Chris Franklin for noting this feature. If you are digitising into a GeoPackage line file, the id field will be autonumbered.
 
 .. image:: img/field_calculator.png
   :align: center
 
-Specific line styles can be added via the top menu Settings > Style Manager option. Geological line styles have been created as \*.xml files and are imported using the “import” option, selectable from just above the Close button in the Style Manager dialog box. Import each style to a category,
+Specific line styles can be added via the top menu Settings > Style Manager option. Geological line styles have been created as xml files and are imported using the “import” option, selectable from just above the Close button in the Style Manager dialog box. Import each style to a category,
 e.g. Contacts, so they are easier to locate.
 
 .. image:: img/style_manager.png
