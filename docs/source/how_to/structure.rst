@@ -1,5 +1,5 @@
 ===============================
-Plot oriented structure symbols
+Plot Oriented Structure Symbols
 ===============================
 
 The aim here is to rotate the relevant symbol to represent the orientation of the structure.

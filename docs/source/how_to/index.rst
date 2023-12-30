@@ -18,6 +18,4 @@ This is a list of processes that hopefully will help the users of QGIS with spec
    structure
    USGS
    video
-   no_gaps
    merging
-

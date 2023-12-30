@@ -1,6 +1,6 @@
-============================================
-How to Merge Adjacent Satellite Image Scenes
-============================================
+=====================================
+Merge Adjacent Satellite Image Scenes
+=====================================
 
 When merging adjacent satellite scenes, it is sometime difficult to remove the join lines between images. The best way to solve this is to use the Ofeo Toolbox - installed by defaults but not enabled by default.
 
