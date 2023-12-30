@@ -4,12 +4,18 @@ Using the Semi Automatic Classification Plugin
 
 Selection, downloading and processing of satellite remote sensing data can be achieved using the Semi Automatic Classification Plugin (SCP) written by `Luca Congedo <https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html>`. After installing the plugin you can open the plugin via the main menu bar. Note the plugin automatically adds panels and toolbars which I normally close to free up window space.
 
+Note that version 8 does not currently do atmospheric corrections on ASTER and Sentinel 2 data and if this is something required, then install vesion 7 - see FAQ on the SCP web site here https://semiautomaticclassificationmanual.readthedocs.io/en/latest/.
+
+The following notes apply to the Semi-Automatic Classification plug-in version 7. Updates notes for version 8 to follow.
+
 .. image:: img/semi_auto_class_plug.png
   :align: center
 
 The main SCP window shows tabs for downloading data, as well as a variety of other pre and post processing options, band calculations and tools for land cover classification.
 
 To download data you need to register with the USGS via their `EarthExplorer portal <http://earthexplorer.usgs.gov/>`_ (free registration) for ASTER and Landsat data and with the European Space Agency (ESA) via their `Sentinel data access portal <https://scihub.copernicus.eu/dhus/#/home>`_. Enter these login details into the relevant sections of the SCP Download Products > Login data tab.
+
+Note that recent changes to the USGS portal has required users to also register and login to the USGS EarthData portal before downloading data.
 
 .. note:: Make sure you click “Remember” so you don't have to re-enter your login details each time. Logins with ESA may take a couple of days to initialise.
 
