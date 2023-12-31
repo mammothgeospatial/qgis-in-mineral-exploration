@@ -2,7 +2,8 @@
 QGIS in Mineral Exploration
 ===========================
 
-.. hint:: Looking for the PDF version? You can find it in the Read the Docs dropdown at the bottom of the left side panel.
+.. image:: _static/2003_02_17_MEGABRECCIA.jpg
+  :align: center
 
 QGIS is an open-source GIS program for the display and analysis of GIS data. It has developed significantly in the past few years and is now a valuable tool for the mineral exploration industry, and a viable alternative to the commercially available GIS packages. Although not specifically written for geological applications, QGIS can do most of the required GIS tasks required by today's geoscientists. The terminology is different to the usual earth sciences programs, but many QGIS algorithms do the same thing but with a different name.
 
@@ -15,6 +16,9 @@ The presentation options for point, line and polygon data are extensive and easi
 Map production is easy in QGIS with the “Print Layout” allowing extensive options for the display and printing of maps.
 
 This document is a working draft and in continuous development. There may be errors and omissions, and these will be rectified as time permits. This manual applies to QGIS 3.34.
+
+.. hint:: Looking for the PDF version? You can find it in the Read the Docs dropdown at the bottom of the left side panel.
+
 
 .. toctree::
   :maxdepth: 2
