@@ -4,7 +4,6 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 # -- Project information -----------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'QGIS in Mineral Exploration'
 copyright = '2023, Grant Boxer'
@@ -16,7 +15,6 @@ release = '1.0'
 
 
 # -- General configuration ---------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
   'sphinx_rtd_theme'
@@ -35,7 +33,6 @@ html_logo = '_static/logo.png'
 html_last_updated_fmt = '%d %b %Y, %H:%M %z'
 
 # -- Options for HTML output -------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
@@ -44,9 +41,7 @@ html_favicon = '_static/qgis_logo.ico'
 html_theme_options = {
     'analytics_id': 'G-MX419S33H7',
     # 'analytics_anonymize_ip': False,
-    # logo_only: Only display the logo image, do not display the project name at the top of the sidebar. Default: False,
     # 'logo_only': False,
-    # display_version: If True, the version number is shown at the top of the sidebar. Default: True,
     # 'display_version': True,
     'prev_next_buttons_location': 'top',
     # 'style_external_links': False,
@@ -66,13 +61,7 @@ def setup(app):
 
 # -- Options for LaTeX output --------------------------------------------------
 
-# latex_engine = 'xelatex'
-
 latex_logo = '_static/logo.png'
-
-# conf.py
-
-# ...
 
 latex_maketitle = f'''
   \\begin{{titlepage}}
@@ -89,7 +78,6 @@ latex_maketitle = f'''
     \\vspace*{{\\fill}}
   \\end{{titlepage}}
 '''
-
 
 latex_elements = {
     'papersize': 'a4paper',
