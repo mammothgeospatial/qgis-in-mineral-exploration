@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'QGIS in Mineral Exploration'
-copyright = '2023, Grant Boxer'
+copyright = '2024, Grant Boxer'
 author = 'Grant Boxer'
 version = '1.0'
 release = '1.0'
