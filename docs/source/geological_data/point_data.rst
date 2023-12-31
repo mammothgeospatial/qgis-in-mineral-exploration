@@ -16,7 +16,7 @@ Point geological mapping data such as bedding, joints and outcrop observations c
 .. image:: img/struct_measure_spreadsheet.png
   :align: center
 
-Below is an example of the “categorised” features of the WAROX data for the GSWA Lissadell 250k map sheet with features manually changed by clicking on each symbol. Once this has been done, remember to **save** the symbols by using the “Style” button and “Save style” to a QGIS \*.qml style file (e.g. GSWA_WAROX.qml). This style file can then be used to recall these styles. You can choose the “save as default”, which creates a qml file with the same file name as the shape file and when you open the shape file, the qml file will be used to determine the way the features are displayed for this layer. Styles can also be saved to a GeoPackage file.
+Below is an example of the “categorised” features of the WAROX data for the GSWA Lissadell 250k map sheet with features manually changed by clicking on each symbol. Once this has been done, remember to **save** the symbols by using the “Style” button and “Save style” to a QGIS ``.qml`` style file (e.g. GSWA_WAROX.qml). This style file can then be used to recall these styles. You can choose the “save as default”, which creates a qml file with the same file name as the shape file and when you open the shape file, the qml file will be used to determine the way the features are displayed for this layer. Styles can also be saved to a GeoPackage file.
 
 .. image:: img/struct_symbols.png
   :align: center

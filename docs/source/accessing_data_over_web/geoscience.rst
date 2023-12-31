@@ -13,7 +13,7 @@ Digital elevation data is also available across Australia from `Geoscience Austr
 
 Many of these datasets are also available as `web services <http://services.ga.gov.au/>`_.
 
-Geophysical data incorporating magnetics, gravity, radiometrics and elevation data can be downloaded as vector (point data) or as grid files. Both national and individual survey data is available for data held by Geoscience Australia via the `Geophysical Archive Data Delivery System <https://portal.ga.gov.au/persona/gadds>`_ - access via the “Tools” menu on the right hand top side of the window. DMIRS will hold data for surveys flown for the GSWA. Data can be filtered by 1:250 000 map sheet area or by geographic coordinates. Check the projection of the dataset before you download, as it may default to geographic coordinates.
+Geophysical data incorporating magnetics, gravity, radiometrics and elevation data can be downloaded as vector (point data) or as grid files. Both national and individual survey data is available for data held by Geoscience Australia via the `Geophysical Archive Data Delivery System <https://portal.ga.gov.au/persona/gadds>`_ - access via the “Tools” menu on the right hand top side of the window. DEMIRS will hold data for surveys flown for the GSWA. Data can be filtered by 1:250 000 map sheet area or by geographic coordinates. Check the projection of the dataset before you download, as it may default to geographic coordinates.
 
 .. figure:: img/geoscience_archive.png
   :align: center

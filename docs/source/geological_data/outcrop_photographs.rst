@@ -161,4 +161,4 @@ Opening pdf attachements
 ------------------------
   To open a pdf attachment, such as a report linked to a point, the action must include the executable file.
 
-  Add the path to the executable, e.g. 'C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe'
+  Add the path to the executable, e.g. 'C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroRd32.exe'

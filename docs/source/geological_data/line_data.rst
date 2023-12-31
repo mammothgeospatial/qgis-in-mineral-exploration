@@ -24,7 +24,7 @@ Contact the author, if you would like to download these style files for contacts
 
 Note that the line direction can be reversed to get the tick symbols to plot on the opposite side of a line, e.g. fault ticks, using the “Reverse Line Direction” in the Advanced Digitising Toolbar (v3.4 or higher).
 
-Line styles can also be created directly via the Style tab of the layer menu. Add an extra layer (using the green plus button) to combine lines and markers. There are numerous styles and options to choose from. Remember to save the style using a “\*.qml” or “Save as Default” option when finished editing the line style.
+Line styles can also be created directly via the Style tab of the layer menu. Add an extra layer (using the green plus button) to combine lines and markers. There are numerous styles and options to choose from. Remember to save the style using a ``.qml`` or “Save as Default” option when finished editing the line style.
 
 You can combine many line styles into the one vector line file, providing you have a column by which the lines can be classified, e.g. feature type “contact”.
 

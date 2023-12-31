@@ -44,7 +44,7 @@ https://github.com/afrigeri/geologic-symbols. An alternative location for geolog
 .. image:: img/symbols_win_explorer.png
   :align: center
 
-SVG files can be stored anywhere but the default location for the standalone install option is the Program folder, for example C:\Program Files\QGIS 3.26\apps\qgis\svg. Note that if you install QGIS via the OS4Geo option, the SVG files will be located in the “C:\OSGeo4W64\apps\qgis\svg” for the long-term release version, or the “C:\OSGeo4W64\apps\qgis-dev\svg” folder for the development version. It is recommended that this folder is used for the additional geological symbol and patterns so QGIS will find these by default and you will not require to specify and additional SVG directory location. If you upgrade your version of QGIS, you may need to copy your extra SVG files back into this folder.
+SVG files can be stored anywhere but the default location for the standalone install option is the Program folder, for example C:\\Program Files\\QGIS 3.26\\apps\\qgis\\svg. Note that if you install QGIS via the OS4Geo option, the SVG files will be located in the “C:\\OSGeo4W64\\apps\\qgis\\svg” for the long-term release version, or the “C:\\OSGeo4W64\\apps\\qgis-dev\\svg” folder for the development version. It is recommended that this folder is used for the additional geological symbol and patterns so QGIS will find these by default and you will not require to specify and additional SVG directory location. If you upgrade your version of QGIS, you may need to copy your extra SVG files back into this folder.
 
 Alternatively, save the SVG folder to another separate folder and point QGIS to that folder using the Settings > Options > System tab.
 
