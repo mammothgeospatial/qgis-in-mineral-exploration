@@ -20,7 +20,5 @@ Satellite data for the ASTER, Landsat, MODIS and Sentinel missions can be downlo
    geological
    landgate
    geoscience
-   usgs
-   esa
-   srtm
+   dtm
    crs

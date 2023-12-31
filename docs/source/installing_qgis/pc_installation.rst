@@ -4,7 +4,7 @@ PC Installation
 
 The QGIS program can be downloaded from the `QGIS Project website <http://www.qgis.org/en/site/>`_ and a choice can be made between various 64 bit versions of the recent release and long term release versions. The Standalone Installers will install the program into the Program Files directory.
 
-The OSGeo4W (Open source geospatial for Windows) option can be also be used and this option places a small executable file on your PC which can be run when desired to update to the latest versions of the LTR and development versions. This version installs the software into the root directory of your PC (e.g. C:\\OSGeo4W64). For first-time Windows users, it is recommended to install the “Download for Windows” option.
+The OSGeo4W (Open Source Geospatial for Windows) option can be also be used and this option places a small executable file on your PC which can be run when desired to update to the latest versions of the LTR and development versions. This version installs the software into the root directory of your PC (e.g. C:\\OSGeo4W64). For first-time Windows users, it is recommended to install the “Download for Windows” option.
 
 .. image:: img/download.png
   :align: center

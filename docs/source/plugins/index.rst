@@ -10,13 +10,12 @@ Ten "core" plugins are installed by default in version 3.34, listed below.
 
 - DB Manager
 - Geometry Checker
-- GRASS7
+- GRASS8
 - GRASS GIS provider
 - MetaSearch Catalog Client
 - Offline Editing
 - OrfeoToolbox provider
 - Processing
-- SAGA GIS provider
 - Topology Checker
 
 To use these pre-installed plugins, you may need to “enable” them in the Plugins > Manage and Install Plugins > Installed window. Enable the plugin by selecting the check box next to the plugin.

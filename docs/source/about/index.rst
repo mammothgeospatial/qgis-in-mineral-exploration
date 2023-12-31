@@ -4,6 +4,8 @@ About this manual
 
 This manual was originally written and freely distributed by Grant Boxer. To share it more widely, Grant and Mammoth Geospatial have collaborated to migrate it to a web-friendly format, following the lead of the `QGIS documentation <https://docs.qgis.org/>`_.
 
+We are offering this document as a donation to the QGIS geoscience community to assist new and existing users in developing their QGIS skills. QGIS is supported by a talented group of developers and we thank them for their efforts to continually improve the software. We consider QGIS to be of great benefit to students and those in the developing world where funding for proprietary software can be difficult.
+
 We welcome community contributions! If you see errors or omissions, or have specific suggestions you think will make this more useful, please let us know by submitting an `issue via the GitHub repo <https://github.com/mammothgeospatial/qgis-in-mineral-exploration/issues>`_. For more substantial contributions, we'd be happy to review pull requests.
 
 Authors and maintainers
