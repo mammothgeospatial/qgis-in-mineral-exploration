@@ -6,39 +6,41 @@ The WA government has made available a large variety of GIS datasets through the
 
 Links to some of the WA web services are as follows;
 
+https://catalogue.data.wa.gov.au/dataset/?organization=department-of-mines-industry-regulation-and-safety
 
-Web Map Server Links
+Use the search option to seek a particular data set, e.g. tenements.
 
-Public: https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/Property_and_Planning/MapServer/WMSServer
+.. image:: img/gswa_services.jpg
+  :align: center
 
-Imagery: https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/Locate/MapServer/WMSServer
+Using Minedex as an example, this link allows you to connect to web services or download data (where available).
 
+.. image:: img/gswa_minedex.jpg
+  :align: center
 
-Web Feature Server Links
+.. image:: img/gswa_minedex_links.jpg
+  :align: center
 
-Maps
-
-https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/Property_and_Planning_WFS/MapServer/WFSServer
 
 Imagery
 
-https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/Imagery_and_Maps_WFS/MapServer/WFSServer
-
-Australian Bureau of Statistics: https://www2.landgate.wa.gov.au/ows/wfsabs_4283/wfs
+https://catalogue.data.wa.gov.au/dataset/locate-wa-mosaic
 
 To add WFS and WMS layers to QGIS, use the Layer > Add Layer > Add WMS/WMTS Layer.
 
 .. image:: img/add_wms.png
   :align: center
 
+
 An example of linking to the Landgate imagery is shown below.
 
 .. image:: img/wms_landgate_image.png
   :align: center
 
+
 Some services may require you to register for a username and password.
 
-Access to vector data is via the add WFS (web feature server) option. See below for the list of publicly available data (no sign in required) from the Landgate server.
+Access to WFS vector data is via the add WFS (web feature server) option. See below for the list of publicly available data (no sign in required) from the Landgate server.
 
 .. image:: img/add_wfs.png
   :align: center

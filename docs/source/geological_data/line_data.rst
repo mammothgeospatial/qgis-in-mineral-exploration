@@ -9,12 +9,12 @@ When creating a new vector layer to digitise the data, ensure the layer is the c
 .. image:: img/new_shp_layer_lines.png
   :align: center
 
-QGIS can automatically assign a unique id numbers for each line after the creation of a group of lines. Open the Layer Properties > Fields, select the id field and click on the field calculator icon and choose “Update existing field”, select the id field, select the “row number” operator in the Variables list. Now when you save the file it will allocate a unique id to each feature. Thanks to Chris Franklin for noting this feature. If you are digitising into a GeoPackage line file, the id field will be autonumbered.
+If you are digitising into a shapefile, QGIS can automatically assign a unique id numbers for each line after the creation of a group of lines. Open the Layer Properties > Fields, select the id field and click on the field calculator icon and choose “Update existing field”, select the id field, select the “row number” operator in the Variables list. Now when you save the file it will allocate a unique id to each feature. Thanks to Chris Franklin for noting this feature. If you are digitising into a GeoPackage line file, the id field will be autonumbered.
 
 .. image:: img/field_calculator.png
   :align: center
 
-Specific line styles can be added via the top menu Settings > Style Manager option. Geological line styles have been created as \*.xml files and are imported using the “import” option, selectable from just above the Close button in the Style Manager dialog box. Import each style to a category,
+Specific line styles can be added via the top menu Settings > Style Manager option. Geological line styles have been created as xml files and are imported using the “import” option, selectable from just above the Close button in the Style Manager dialog box. Import each style to a category,
 e.g. Contacts, so they are easier to locate.
 
 .. image:: img/style_manager.png
@@ -24,7 +24,7 @@ Contact the author, if you would like to download these style files for contacts
 
 Note that the line direction can be reversed to get the tick symbols to plot on the opposite side of a line, e.g. fault ticks, using the “Reverse Line Direction” in the Advanced Digitising Toolbar (v3.4 or higher).
 
-Line styles can also be created directly via the Style tab of the layer menu. Add an extra layer (using the green plus button) to combine lines and markers. There are numerous styles and options to choose from. Remember to save the style using a “\*.qml” or “Save as Default” option when finished editing the line style.
+Line styles can also be created directly via the Style tab of the layer menu. Add an extra layer (using the green plus button) to combine lines and markers. There are numerous styles and options to choose from. Remember to save the style using a ``.qml`` or “Save as Default” option when finished editing the line style.
 
 You can combine many line styles into the one vector line file, providing you have a column by which the lines can be classified, e.g. feature type “contact”.
 

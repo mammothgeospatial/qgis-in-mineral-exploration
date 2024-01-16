@@ -11,6 +11,8 @@ To download ASTER and Landsat data, you are required to register (free) at the U
 
 .. toctree::
 
+   usgs
+   esa
    classification_plugin
    aster_data
    landsat_data

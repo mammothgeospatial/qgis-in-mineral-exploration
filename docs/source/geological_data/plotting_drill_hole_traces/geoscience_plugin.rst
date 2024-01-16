@@ -4,7 +4,7 @@ Geoscience Plugin
 
 The “Geoscience” plugin (with thanks to Roland Hill) has allowed the plotting of drill hole traces and colour coding of the drill hole traces in QGIS easy. Cross sections can also be created. The drill set up screen allows you to select the collar and survey files. You will need to install the plugins in the Plugin Manager.
 
-If your tables have commonly used field names, then the plugin will pick the fields.
+If your tables have commonly used field names, then the plugin will pick the fields. If you have collar elevations in both the collar file and drill hole survey file, make sure these values are the same, otherwise the points may not be plotted.
 
 .. image:: ../img/desurvey_hole.png
   :align: center

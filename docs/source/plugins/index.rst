@@ -6,17 +6,16 @@ Plugins
 
 Plugins are small utility programs that greatly expand the capabilities of QGIS. There are currently over 1100 plugins available for download. These plugins are all free and have usually been written to solve a specific problem or task for users. It is recommended that users peruse the plugins list to see what plugins might be applicable to their workflow.
 
-Ten "core" plugins are installed by default in version 3.28, listed below.
+Ten "core" plugins are installed by default in version 3.34, listed below.
 
 - DB Manager
 - Geometry Checker
-- GRASS7
+- GRASS8
 - GRASS GIS provider
 - MetaSearch Catalog Client
 - Offline Editing
 - OrfeoToolbox provider
 - Processing
-- SAGA GIS provider
 - Topology Checker
 
 To use these pre-installed plugins, you may need to “enable” them in the Plugins > Manage and Install Plugins > Installed window. Enable the plugin by selecting the check box next to the plugin.

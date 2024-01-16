@@ -2,16 +2,20 @@
 Gridding Surface Geochemical Data
 =================================
 
-To create a grid of the geochemical data, zoom to an area of data that you want to grid and open the Processing Toolbox (right hand side window) > SAGA > Raster Creation Tools > Multilevel b-spline. Select the field to grid and click select and enter a file name (if you want a permanent file output) and location to where you want to write the grid file. It is important to make sure QGIS can write to the folder (not the default Program Files folder), otherwise the operation will fail. Note there are many gridding options available in QGIS, this is one example.
+To create a grid of the geochemical data, zoom to an area of data that you want to grid and open the Processing Toolbox > SAGA Next Generation > Raster Creation Tools > Multilevel b-spline. Note SAGA Next Gen is not installed by default and you may need to go to your plug-in manager and install/enable. 
+
+Select the field to grid and click select and enter a file name (if you want a permanent file output) and location to where you want to write the grid file. It is important to make sure QGIS can write to the folder (not the default Program Files folder), otherwise the operation will fail. Note there are many gridding options available in QGIS, this is one example.
 
 Zoom in to a subset of the data, as shown in the figure below.
 
 .. image:: img/zoom_select.png
   :align: center
 
-.. image:: img/saga_bspline.png
+.. image:: img/saga_next_gen.jpg
   :align: center
 
+.. image:: img/saga_next_gen_bspline.jpg
+  :align: center
 
 To limit the area over which the grid will be calculated, use the canvas extent for the “Output extent” (click on the … to see the extent options).
 
