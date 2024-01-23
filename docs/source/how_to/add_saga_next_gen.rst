@@ -2,7 +2,7 @@
 Installing the SAGA Next Gen Provider
 =====================================
 
-Using the new SAGA Next Gen algorithms requires the installation of additioanl binary files. To install the SAGA Next Gen, go to the plug-ins manager and select the “Processing Saga Next Gen Provider”.
+Using the new SAGA Next Gen algorithms requires the installation of additional binary files. To install the SAGA Next Gen, go to the plug-ins manager and select the “Processing Saga Next Gen Provider”.
 
 .. image:: img/saga_ng_1.jpg
   :align: center
