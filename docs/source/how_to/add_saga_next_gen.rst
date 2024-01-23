@@ -28,4 +28,9 @@ In the screen below, type in “saga” in the search box. You may need to expan
 .. image:: img/saga_ng_6.jpg
   :align: center
 
+To enable the SAGA Next Gen algorithms enter the location of the SAGA version 9 folder.
+
+.. image:: img/OTB_3.jpg
+  :align: center
+
 You may need to re-start QGIS to see the new SAGA Next Gen algorithms appear in your Processing Toolbox.
