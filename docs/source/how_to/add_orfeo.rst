@@ -4,11 +4,11 @@ Enabling the Orfeo Toolbox
 
 To install the Orfeo Toolbox, we have to download the binaries from https://www.orfeo-toolbox.org/download/.
 
-.. image:: img/orfeo_1.jpg
+.. image:: img/OTB_1.jpg
   :align: center
 
 
-.. image:: img/orfeo_2.jpg
+.. image:: img/OTB_2.jpg
   :align: center
 
 
