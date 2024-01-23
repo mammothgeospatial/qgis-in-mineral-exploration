@@ -14,19 +14,18 @@ Note that the dialog box indicates that you need to manually install the “SAGA
 
 Click through a few screens.
 
-  .. image:: img/saga_ng3.jpg
+.. image:: img/saga_ng3.jpg
   :align: center
 
-  .. image:: img/saga_ng4.jpg
+.. image:: img/saga_ng4.jpg
   :align: center
 
-  .. image:: img/saga_ng5.jpg
+.. image:: img/saga_ng5.jpg
   :align: center
 
 In the screen below, type in “saga” in the search box. You may need to expand the “Desktop” folder.
 
-
-  .. image:: img/saga_ng6.jpg
+.. image:: img/saga_ng6.jpg
   :align: center
 
-  You may need to re-start QGIS to see the new SAGA Next Gen algorithms appear in your Processing Toolbox.
+You may need to re-start QGIS to see the new SAGA Next Gen algorithms appear in your Processing Toolbox.
