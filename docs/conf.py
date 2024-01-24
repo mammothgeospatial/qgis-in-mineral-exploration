@@ -8,8 +8,8 @@
 project = 'QGIS in Mineral Exploration'
 copyright = '2024, Grant Boxer'
 author = 'Grant Boxer'
-version = '1.0'
-release = '1.0'
+version = '1.1'
+release = '1.1'
 
 # master_doc = 'index'
 
