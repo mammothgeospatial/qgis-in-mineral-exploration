@@ -18,3 +18,5 @@ This is a list of processes that hopefully will help the users of QGIS with spec
    structure
    USGS
    merging
+   add_saga_next_gen
+   add_orfeo
