@@ -21,7 +21,7 @@
 ### Build the docs
 - Activate your virtual environment: `.\venv\Scripts\activate`
 - In the `docs` directory: `make html` -> this builds the docs in `_build/html`
-- Open `_build/html/docs/index.html` in a browser to preview
+- Open `_build/html/index.html` in a browser to preview
 
 ## Linux
 
