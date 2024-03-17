@@ -5,16 +5,10 @@ Installing the SAGA Next Gen Provider
 Using the new SAGA Next Gen algorithms requires enabling the "SAGA Next Gen provider" in the Plug-Ins manager and checking to see if the saga9 binary files have already been installed.
 
 To enable the SAGA Next Gen plug-in, go to the plug-ins manager and select the “Processing Saga Next Gen Provider”. Note that the dialog box indicates that you need to manually install the “SAGA 9.1 binaries”.
-Using the new SAGA Next Gen algorithms requires enabling the "SAGA Next Gen provider" in the Plug-Ins manager and checking to see if the saga9 binary files have already been installed.
-
-To enable the SAGA Next Gen plug-in, go to the plug-ins manager and select the “Processing Saga Next Gen Provider”. Note that the dialog box indicates that you need to manually install the “SAGA 9.1 binaries”.
 
 .. image:: img/saga_ng_1.jpg
   :align: center
 
-Next, check if the saga9 binaries are installed in your QGIS installation by looking in the "apps" folder of your QGIS installation, either in C:\\Program Files\\QGIS vx.x\\apps or in C:\\OSGeo4W\\apps. If this directory is present then you are good to go. Otherwise continue below.
-
-To install the saga9 binaries we need to run the “SetUp” program that was installed with your version of QGIS. This will be either on your desktop or found under the Windows > QGIS x.xx folder.
 Next, check if the saga9 binaries are installed in your QGIS installation by looking in the "apps" folder of your QGIS installation, either in C:\\Program Files\\QGIS vx.x\\apps or in C:\\OSGeo4W\\apps. If this directory is present then you are good to go. Otherwise continue below.
 
 To install the saga9 binaries we need to run the “SetUp” program that was installed with your version of QGIS. This will be either on your desktop or found under the Windows > QGIS x.xx folder.
