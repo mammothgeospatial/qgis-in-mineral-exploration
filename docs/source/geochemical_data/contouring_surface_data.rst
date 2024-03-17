@@ -7,6 +7,8 @@ To create contours of the data, use the Raster > Extraction > Contour menu item.
 .. image:: img/contour_dialog.png
   :align: center
 
+Note if you get an error when trying to run the QGIS > Raster Extraction > Contour algortithm, you may need to adjust some settings. If the error is like "Model file not found" or "No such file or directory". Go to your QGIS menu bar > Options > Processing > General, and check that your "Default output raster layer extension" is value "tif" and your "Default output vector layer extension" is value "gpkg".
+
 In this example I have used a contour interval of 100 ppm and called the contour field name “ppm_Cr”. This can be saved as a temporary file to check the results before saving a final version.
 
 .. image:: img/contour_result.png
