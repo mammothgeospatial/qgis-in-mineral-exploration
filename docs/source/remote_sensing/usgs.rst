@@ -2,7 +2,7 @@
 United States Geological Survey (USGS)
 ======================================
 
-The USGS hold an enormous amount of free data, most of which is accessible via its `EarthExplorer portal <http://earthexplorer.usgs.gov/>`_. To download the data, you are required to register (free) and select a username and password.
+The USGS hold an enormous amount of free data, most of which is accessible via its `EarthExplorer portal <http://earthexplorer.usgs.gov/>`_. To download the data, you are required to register (free) and select a username and password on two portals; the EarthExplorer portal and the EarthData portal (https://urs.earthdata.nasa.gov/home). You can browse data in both but you need to have registered and created a profile in the EarthData portal to be able to download data.
 
 ASTER and Landsat data are two of the remote sensing datasets available from the USGS. These datasets are also easily accessed via the Semi-Automatic Classification plug-in in QGIS (see Section 11.1). Digital elevation, radar and Lidar data are also available from the USGS. Note that Sentinel 2 data is now no longer available from the EarthExplorer portal.
 

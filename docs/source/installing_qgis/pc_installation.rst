@@ -2,15 +2,16 @@
 PC Installation
 ===============
 
-The QGIS program can be downloaded from the `QGIS Project website <http://www.qgis.org/en/site/>`_ and a choice can be made between various 64 bit versions of the recent release and long term release versions. The Standalone Installers will install the program into the Program Files directory.
+The QGIS program can be downloaded from the `QGIS Project website <http://www.qgis.org/en/site/>`_ and a choice can be made between various 64 bit versions of the recent release and long term release versions. 
 
-The OSGeo4W (Open Source Geospatial for Windows) option can be also be used and this option places a small executable file on your PC which can be run when desired to update to the latest versions of the LTR and development versions. This version installs the software into the root directory of your PC (e.g. C:\\OSGeo4W64). For first-time Windows users, it is recommended to install the “Download for Windows” option.
+There are two options for installing QGIS; one is called the "Standalone" installer and the other is the "Network" installer. The Standalone Installer will install the program into the Program Files folder on your C: drive and new versions will be installed into new folders. This may result in numerous QGIS versions in different folders. The Network installer installs a small execuable program (osgeo4w-setup.exe) into your downloads folder and when run, installs QGIS into the root directory of your C: drive (C:/OSGeo4W). The executable file can be run at any time to check for software updates and will update the files in the QGIS installation and not create new folders. 
+
+Note that all your user settings, plug-ins etc, are saved into your user profile in the C:/User folder, not the program folder or OSGeo4W folders. These will not be overwritten by a new QGIS version install.
 
 .. image:: img/download.png
   :align: center
 
-The installer (“Download QGIS 3.34”) will install the program into the program files folder and create a folder on your desktop with shortcuts to the run the program. It is recommended to run the “QGIS Desktop 3.x with GRASS 7.x.x” version which runs the GIS program and associated GRASS GIS functions.
-When you run the OSGeo4W Network Installer option you will see the following screen shot. For a first-time installation, choose the “Express Desktop Install” which will install the basic programs and required utility files.
+The installer (“Download QGIS 3.34”) will install the program into the program files folder and create a folder on your desktop with shortcuts to the run the program. When you run the OSGeo4W Network Installer option you will see the following screen shot. For a first-time installation, choose the “Express Desktop Install” which will install the basic programs and required utility files.
 
 .. image:: img/osgeo4w.png
   :align: center
