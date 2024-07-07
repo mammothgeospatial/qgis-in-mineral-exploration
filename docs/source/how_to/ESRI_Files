@@ -28,12 +28,22 @@ The QGIS plug-in “SLYR” has been written by Nyall Dawson (https://north-road
 
 To apply styling to the shp or gdb file, we need to convert the lyr or style file to a QGIS style file (*.qml). Install the SLYR plug-in and this will create a new entry in the Processing ToolBox. In this example, we will convert an lyr file to a QGIS qml file and a QGIS xml file.
 
-.. img/SLYR-1.jpg
+.. img/SLYR-2.jpg
   :align: center
  
 In the LYR datasets section, open the “Convert LYR to QML” algorithm and select the lyr file for conversion.
- 
 
+.. img/SLYR-3.jpg
+  :align: center
+
+.. img/SLYR-4.jpg
+  :align: center
+
+.. img/SLYR-ToQML.jpg
+  :align: center
+
+.. img/SLYR-ToQML-1.jpg
+  :align: center
  
 Hint: if you use the same file name as the one you wish to apply the styles to, save it into the same folder as the file and this will then automatically style this layer by default when it is opened
  
