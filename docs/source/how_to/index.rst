@@ -11,6 +11,7 @@ This is a list of processes that hopefully will help the users of QGIS with spec
 .. 5. "No gaps" editing
 .. 6. Exporting drill collar points to your GPS
 .. 7. Exporting tracks to your GPS
+.. 8. Working with ESRI files and styles
 
 .. toctree::
 
@@ -20,3 +21,4 @@ This is a list of processes that hopefully will help the users of QGIS with spec
    merging
    add_saga_next_gen
    add_orfeo
+   ESRI_Files
