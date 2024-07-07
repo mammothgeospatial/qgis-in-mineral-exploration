@@ -1,33 +1,3 @@
-===============================
-Plot Oriented Structure Symbols
-===============================
-
-The aim here is to rotate the relevant symbol to represent the orientation of the structure.
-
-The simplest way to do this is to have rotation amount in a data field in your layer, e.g. strike or dip direction, and tell QGIS via the data driven override widget to rotate the symbol by the amount in that rotaion field of your layer. Check that the rotation is correct.
-
-Open the symbol selector dialog by clicking on the structure symbol and then set its symbol.
-
-.. image:: img/structure_symbols_selector.jpg
-  :align: center
-
-Select the data driven override widget next to the rotation box and set the field that contains the rotation amount.
-
-  .. image:: img/structure_symbols_no_rotation.jpg
-    :align: center
-
-Check that the symbols are correctly oriented.
-
-  .. image:: img/structure_symbols_map.jpg
-    :align: center
-
-Make sure you know the initial orientation of the symbol, as you might need to subtract 90 degrees for example to get the correct orientation.
-
-``Dip_Direction - 90``
-
- .. image:: img/structure_symbols_rotation.jpg
-    :align: center
-**************************************************************************
 ===========================================
 Working with ESRI shp and geodatabase files
 ===========================================
@@ -38,16 +8,28 @@ QGIS can read shp and gdb files but the styling data is not included within the 
 
 To open an ESRI geodatbase file, we “select” the folder containing all the files.
 
-.. image:: img/structure_symbols_selector.jpg
+.. image:: img/ESRI_Geodatabase.jpg
   :align: center
 
 Use the Data Source Manager, select vector and “Directory”. Set the type to “OpenFileGDB” and select the geodatabase file.
+
+.. image:: img/ESRI_Geodatabase-1.jpg
+  :align: center
+
+.. img/ESRI_Geodatabase-2.jpg
+  :align: center
  
-This will then import all the geodatabase layers into QGIS. 
+This will then import all the geodatabase layers into QGIS.
+
 The QGIS plug-in “SLYR” has been written by Nyall Dawson (https://north-road.com/) to convert ESRI styles for QGIS users. There are two versions, a community version available from the QGIS plug-in repository and a more comprehensive commercial version available under licence.
  
+.. img/SLYR-1.jpg
+  :align: center
 
 To apply styling to the shp or gdb file, we need to convert the lyr or style file to a QGIS style file (*.qml). Install the SLYR plug-in and this will create a new entry in the Processing ToolBox. In this example, we will convert an lyr file to a QGIS qml file and a QGIS xml file.
+
+.. img/SLYR-1.jpg
+  :align: center
  
 In the LYR datasets section, open the “Convert LYR to QML” algorithm and select the lyr file for conversion.
  
