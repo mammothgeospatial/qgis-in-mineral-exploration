@@ -8,12 +8,12 @@ There are two options for installing QGIS; one is called the "Standalone" instal
 
 Note that all your user settings, plug-ins etc, are saved into your user profile in the C:/User folder, not the program folder or OSGeo4W folders. These will not be overwritten by a new QGIS version install.
 
-.. image:: img/download.png
+.. image:: img/QGIS_Download_new.jpg
   :align: center
 
 The installer (“Download QGIS 3.34”) will install the program into the program files folder and create a folder on your desktop with shortcuts to the run the program. When you run the OSGeo4W Network Installer option you will see the following screen shot. For a first-time installation, choose the “Express Desktop Install” which will install the basic programs and required utility files.
 
-.. image:: img/osgeo4w.png
+.. image:: img/QGIS_Download_NetworkInstaller_new.jpg
   :align: center
 
 After the initial “Express Desktop Install”, this window will be different and you can then check for updates by running the “osgeo4w-setup.exe” file again (usually located in the Downloads folder) where you can then select “Advanced Install” and select which products you wish to update. The OSGeo4W option can be used instead of the Standalone Installer option.
