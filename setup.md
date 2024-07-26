@@ -45,7 +45,7 @@ make latexpdf
 
 If you want to see how the QGIS docs use various features in reStructuredText, it's useful to flick between their docs packages:
 
-[QGIS Docs - Browser Introduction](https://docs.qgis.org/3.28/en/docs/user_manual/introduction/browser.html)
+[QGIS Docs - Browser Introduction](https://docs.qgis.org/latest/en/docs/user_manual/introduction/browser.html)
 
 and the GitHub repo so you can see the reStructuredText:
 
