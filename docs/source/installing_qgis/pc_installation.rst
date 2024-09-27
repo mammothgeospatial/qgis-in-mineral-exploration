@@ -23,7 +23,7 @@ After the initial “Express Desktop Install”, this window will be different a
 
 The select packages window (above) indicates there is an update for v 3.9.0-12 to v 3.9.0-15 in the QGIS development version (old versions by way of illustration only!).
 
-User manual and training documents can be viewed, or pdf versions downloaded from the `QGIS web site <https://qgis.org/resources/hub/`_.
+User manual and training documents can be viewed, or pdf versions downloaded from the `QGIS web site <https://qgis.org/resources/hub/>`_.
 
 .. image:: img/gis_window.png
   :align: center
