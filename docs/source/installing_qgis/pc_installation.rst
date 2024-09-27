@@ -2,7 +2,7 @@
 PC Installation
 ===============
 
-The QGIS program can be downloaded from the `QGIS Project website <http://www.qgis.org>`_ and a choice can be made between various 64 bit versions of the recent release and long term release versions.
+The QGIS program can be downloaded from the `QGIS Project website <http://qgis.org>`_ and a choice can be made between various 64 bit versions of the recent release and long term release versions.
 
 There are two options for installing QGIS; one is called the "Standalone" installer and the other is the "Network" installer. The Standalone Installer will install the program into the Program Files folder on your C: drive and new versions will be installed into new folders. This may result in numerous QGIS versions in different folders. The Network installer installs a small execuable program (osgeo4w-setup.exe) into your downloads folder and when run, installs QGIS into the root directory of your C: drive (C:/OSGeo4W). The executable file can be run at any time to check for software updates and will update the files in the QGIS installation and not create new folders.
 
