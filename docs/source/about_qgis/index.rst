@@ -17,7 +17,7 @@ QGIS is a volunteer driven project. They welcome contributions in the form of co
 
 QGIS provides a continuously growing number of capabilities provided by core functions and plugins.
 
-This document will mainly address workflows for geoscientists but there are many other tools available in QGIS and worthy of some exploration of their functions. The Geoscience plugin can be used display drill holes in plan and in cross section but is limited in its features. Downhole depth ticks, assay bars and labels can be displayed. QGIS is now able handle all the various geophysical processing options with the SGTool plug-in for geophysical processing.
+This document will mainly address workflows for geoscientists but there are many other tools available in QGIS and worthy of some exploration of their functions. The Geoscience plugin can be used to display drill holes in plan and in cross section but is limited in its features. Downhole depth ticks, assay bars and labels can be displayed. QGIS is now able to handle all the various geophysical processing options with the SGTool plugin for geophysical processing.
 
 A good explanation of QGIS and where it came from can be found `here <https://www.youtube.com/watch?v=As4hfPecxoU>`_.
 If you find QGIS makes a valuable contribution to your business, please consider `making a donation <https://qgis.org/funding/donate/>`_ to assist with continual code improvements.

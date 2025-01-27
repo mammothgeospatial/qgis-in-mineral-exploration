@@ -5,7 +5,7 @@
 Plotting Drill Hole Traces and 3D Drill Data Display
 ====================================================
 
-There are two options to displaying drill hole traces on maps. One is to create the horizontal trace and use the “Shape Tools” plugin to plot the lines, or you can use the “Geoscience” plugin (prefeerred method). Both methods are described here.
+There are two options to displaying drill hole traces on maps. One is to create the horizontal trace and use the “Shape Tools” plugin to plot the lines, or you can use the “Geoscience” plugin (preferred method). Both methods are described here.
 
 .. toctree::
 
