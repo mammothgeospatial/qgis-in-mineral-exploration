@@ -3,7 +3,7 @@ Point Data
 ==========
 Field mapping data is collected by various methods. The most basic version and that used by the “old school” is to collect data in a field book and then enter it into a spreadsheet for import into a GIS. Field data collectors vary in their formats and so the user will need to determine what is the best option for their data import. Always include the datum and projection zone (if applicable) when compiling vector data.
 
-When importing data into QGIS, it must be decided whether the layers will created as shape files or created in a Geopackage. Shape files are in the original ESRI file format and has a number of limitations, such as field names limited to 10 characters. Geopackages do not have these restrictions but are typically single user files only, i.e., one user access at any one time.
+When importing data into QGIS, it must be decided whether the layers will be created as shape files or created in a Geopackage. Shape files are in the original ESRI file format and has a number of limitations, such as field names limited to 10 characters. Geopackages do not have these restrictions but are typically single user files only, i.e., one user access at any one time.
 
 GPS points collected in a GPS are easily brought in to QGIS by importing a GPS “gpx” file or in some cases direct download of the GPX file from the GPS. Tracks and waypoints downloaded from the GPS in gpx format can be opened via the Data Source Manager and the GPS tab. GPX files from Garmin GPS units are usually in WGS84 geographic coordinates (Longitude and Latitude, decimal degree format) by default. GPS points can be uploaded to a GPS using the POI plugin.
 
